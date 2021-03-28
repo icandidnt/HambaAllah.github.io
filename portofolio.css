@@ -1,0 +1,128 @@
+.top-container {
+    background-color: #eaf6f6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.ican {
+    margin: 100px auto auto auto;
+    width: 20%;
+    border-radius: 100%;
+}
+
+.daun {
+    position: absolute;
+    top: 50%;
+    right: 60%;
+
+}
+
+.daun2 {
+    position: absolute;
+    top: 50%;
+    left: 60%;
+}
+
+.gunung {
+    top: auto;
+    left: auto;
+    right: auto;
+    left: auto;
+}
+
+hr {
+    border-style: none;
+    border-bottom-style: dotted;
+    color: #eaf6f6;
+    border-width: 10px;
+    width: 5%;
+    margin: 100px auto;
+}
+
+.coding {
+    width: 35%;
+    float: left ;
+    margin-left: 15px;
+}
+
+.skill-row {
+    width: 50%;
+    text-align: center;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+h3 {
+    color: dodgerblue;
+}
+
+.gaming {
+    width: 35%;
+    float: right;
+    margin-right: 15px;
+}
+
+body {
+    text-align: center;
+    position: relative;
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+h1 {
+    color: dodgerblue;
+    margin: 50px auto 0 auto;
+    font-size: 3.625rem;
+    line-height: 2;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: cadetblue;
+    padding-bottom: 10px;
+}
+
+.contact2 {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+p {
+    line-height: 2;
+}
+
+.butn {
+    font-family: sans-serif;
+    background: #1e90ff ;
+    background-image: linear-gradient(to bottom ,#1e90ff ,#1e90ff );
+    border-radius: 8px;
+    color: ghostwhite;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.footer {
+    background-color: lightskyblue;
+    margin-top: 50px;
+    padding: 50px 0 20px;
+}
+
+.aa {
+    text-decoration: none;
+    color:blanchedalmond ;
+    width: 200%;
+    margin: 10px 20px;
+}
+.ap {
+    color: #1e90ff;
+    font-size: 10px;
+}
+
+.intro {
+        width: 30%;
+        margin: auto;
+        font-size: 16px;
+    }
